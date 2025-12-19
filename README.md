@@ -6,8 +6,8 @@ https://ali-bardide.vercel.app
 
 
 <div>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alibardide5124&show_icons=true&count_private=true&include_all_commits=true&theme=ayu-mirage" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibardide5124&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alibardide-dev&show_icons=true&count_private=true&include_all_commits=true&theme=ayu-mirage" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibardide-dev&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage" />
 </div>
 
 </br>
