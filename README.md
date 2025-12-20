@@ -1,6 +1,6 @@
 ### Hello There!
 
-I'm a computer engineering student, and Android Developer. Looking for fun stuff to build and challenge my abilities in messing them up. 
+I'm a computer science student, and Android Developer. Looking for fun stuff to build and challenge my abilities in messing them up. 
 
 https://ali-bardide.vercel.app
 
